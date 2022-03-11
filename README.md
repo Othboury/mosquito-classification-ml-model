@@ -8,4 +8,4 @@ The DataSet used in this project is the same used in "HumBugDB: A Large-scale Ac
 
 It this project you will also find steps to deploy the model in AWS.
 
-This project is linked to: https://github.com/Othboury/audio-recorder-aws-s3upload, which us the mobile application that record the audios send them to the model and receive the classification in order to present it to the user.
+This project is linked to: https://github.com/Othboury/audio-recorder-aws-s3upload, which is the mobile application that record the audios send them to the model and receive the classification in order to present it to the user.
